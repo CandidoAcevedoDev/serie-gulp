@@ -30,7 +30,7 @@ HTML
     https://github.com/kangax/html-minifier
 
 CSS
-    npm install --save-dev gulp-postcss cssnano autoprefixer
+    npm install --save-dev gulp-postcss cssnano autoprefixer postcss
 
 
     Para utilizar autoprefixer hay dos opciones, o añadir los navegadores a los que quieres dar soporte al package.json o hacerlo en un archivo separado.
